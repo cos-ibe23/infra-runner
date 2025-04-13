@@ -170,7 +170,7 @@ terraform destroy
 
 ## 📌 Notes
 - The user_data script is included for future expansion, e.g., automatic Docker installation.
-- You can later expand this to pull and run a Docker image (e.g., from ).
+- You can later expand this to pull and run a Docker image (e.g., from docker-ci-pipeline repo ).
 
 ---
 ```
